@@ -8,11 +8,17 @@
   <name>01-Maven-App</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
+    <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
-    </dependency>
+	  <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.7</version>
+      <scope>test</scope>
+	   <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.9</version>
+      <scope>test</scope>
   </dependencies>
 </project>
